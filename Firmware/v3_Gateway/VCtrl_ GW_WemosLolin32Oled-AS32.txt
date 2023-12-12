@@ -1,0 +1,14 @@
+======================================================================================================= 
+------------------------------- GATEWAY PROTOTYPE 2 | Wemos ESP Lolin32 -------------------------------
+======================================================================================================= 
+Line 1: Basic
+v1.0: Get data from slave -> server, get basic info: rssi, voltage, ... 
+v1.1: OLED, Wifi Setup
+v1.2: 
+- Wifi config with ESP Webserver and save configs to EEPROM
+
+
+
+
+
+
