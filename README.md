@@ -24,7 +24,11 @@ Connect to Gateway using your own WiFi and enter personal Wifi SSID and password
 ![Alt text](image/setup.png)
 
 When the setup is completed, the LCD screen displays like this.
+
+
 ![Alt text](image/p2.png) 
+
+
 
 ![Alt text](image/p1.png)
 
